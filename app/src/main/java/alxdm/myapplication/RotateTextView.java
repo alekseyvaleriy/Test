@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 public class RotateTextView  extends TextView {
     //private Paint mPaint = makePaint(Color.BLUE);
-    private String mRotateText = "Food";
+    private String mRotateText = "Жратва";
     private TextPaint mPaint = getPaint();
 
     public RotateTextView(Context context, AttributeSet attrs, int defStyle) {
